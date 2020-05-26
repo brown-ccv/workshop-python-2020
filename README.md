@@ -12,5 +12,10 @@ We use JupyterHub during the workshop. The Brown JupyterHub is designed to provi
 
 ## Links to materials
 
-- Day 1 lectures: please click [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_1%2Fday_1_lecture.ipynb) to open the day 1 material in the hub.
-- Day 1 recording: coming soon!
+The table below contains links to the materials. The lecture will open the notebook in the hub, the video links to the youtube recording.
+
+|       	| lecture 	| video 	|
+|-------	|:-------:	|:-----:	|
+| day 1 - Variables part 1 	|   [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_1%2Fday_1_lecture.ipynb)  	|  tbd  	|
+| day 2 - Variables part 2	|   tbd   	|  tbd  	|
+
