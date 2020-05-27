@@ -12,7 +12,7 @@ We use JupyterHub during the workshop. The Brown JupyterHub is designed to provi
 
 ## Links to materials
 
-The table below contains links to the materials. The lecture will open the notebook in the hub, the video links to the youtube recording.
+The table below contains links to the materials. The lecture will open the notebook in the hub, the video links to the youtube recording. Just FYI if you follow the workshop asynchronously in June 2020, the video will only be available a day or two after the lecture link is posted.
 
 |       	| lecture 	| video 	|
 |-------	|:-------:	|:-----:	|
