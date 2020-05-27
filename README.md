@@ -17,3 +17,8 @@ The table below contains links to the materials. The lecture will open the noteb
 | day 1 - Variables part 1 	|   [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_1%2Fday_1_lecture.ipynb)  	|  tbd  	|
 | day 2 - Variables part 2	|   tbd   	|  tbd  	|
 
+## Contact
+The instructors are Ashley Lee (<ashley_lee@brown.edu>) and Andras Zsom (<andras_zsom@brown.edu>).
+
+## Acknowledgements
+We thank the Data Science Initiative at Brown University for sponsoring the workshop. We are grateful to Isabel Restrepo and Fernando Gelin for assisting with the JupyterHub; Matt Slivinski, Camilo Diaz, and Paul Stey for helping out during the afternoon sessions.
