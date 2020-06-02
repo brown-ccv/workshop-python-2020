@@ -15,7 +15,7 @@ The table below contains links to the materials. The lecture will open the noteb
 |       	| lecture 	| video 	|
 |-------	|:-------:	|:-----:	|
 | day 1 - Variables part 1 	|   [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_1%2Fday_1_lecture.ipynb)  	|  [here](https://www.youtube.com/watch?v=0keL313GbCY)  	|
-| day 2 - Variables part 2	|   [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_1%2Fday_2_strings.ipynb)   	|  tbd  	|
+| day 2 - Variables part 2	|   [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_1%2Fday_2_strings.ipynb)   	|  [here](https://www.youtube.com/watch?v=PzJhs6RX7ag&list=PLTiEffrOcz_4QA2Mtu3domnGcUE91triP&index=3&t=0s)  	|
 |day 3 - Container types part 1| tbd | tbd |
 |day 3 - Container types part 2| tbd | tbd |
 
