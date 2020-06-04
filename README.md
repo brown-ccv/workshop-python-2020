@@ -17,7 +17,7 @@ The table below contains links to the materials. The lecture will open the noteb
 | day 1 - Variables part 1 	|   [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_1%2Fday_1_lecture.ipynb)  	|  [here](https://www.youtube.com/watch?v=0keL313GbCY)  	|
 | day 2 - Variables part 2	|   [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_1%2Fday_2_strings.ipynb)   	|  [here](https://www.youtube.com/watch?v=PzJhs6RX7ag)  	|
 |day 3 - Container types part 1| [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_1%2Fday_3_lists.ipynb) | [here](https://www.youtube.com/watch?v=b3HaD1D3WDg) |
-|day 4 - Container types part 2| [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_1%2Fday_4_dictionaries.ipynb) | tbd |
+|day 4 - Container types part 2| [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_1%2Fday_4_dictionaries.ipynb) | [here](https://www.youtube.com/watch?v=atz2GLL7OtU&list=PLTiEffrOcz_4QA2Mtu3domnGcUE91triP&index=5&t=0s) |
 |day 5 - control flow part 1| tbd | tbd |
 |day 6 - control flow part 2| tbd | tbd |
 
