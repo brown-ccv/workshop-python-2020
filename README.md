@@ -19,7 +19,7 @@ The table below contains links to the materials. The lecture will open the noteb
 |day 3 - Container types part 1| [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_1%2Fday_3_lists.ipynb) | [here](https://www.youtube.com/watch?v=b3HaD1D3WDg) |
 |day 4 - Container types part 2| [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_1%2Fday_4_dictionaries.ipynb) | [here](https://www.youtube.com/watch?v=atz2GLL7OtU) |
 |day 5 - Control flow part 1| [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_1%2Fday_5_if_statements.ipynb) | [here](https://www.youtube.com/watch?v=GLemrD7tuTI) |
-|day 6 - Control flow part 2| tbd | tbd |
+|day 6 - Control flow part 2| [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_2%2Fday_6_for_loops.ipynb) | tbd |
 |day 7 - Control flow part 3| tbd | tbd |
 |day 8 - Functions part 1| tbd | tbd |
 
