@@ -21,7 +21,7 @@ The table below contains links to the materials. The lecture will open the noteb
 |day 5 - Control flow part 1| [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_1%2Fday_5_if_statements.ipynb) | [here](https://www.youtube.com/watch?v=GLemrD7tuTI) |
 |day 6 - Control flow part 2| [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_2%2Fday_6_for_loops.ipynb) | [here](https://www.youtube.com/watch?v=DzGCCxA8gkU) |
 |day 7 - Control flow part 3| [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_2%2Fday_7_for_if.ipynb) | tbd |
-|day 8 - Functions part 1| tbd | tbd |
+|day 8 - Functions part 1| [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_2%2Fday_8_functions.ipynb) | tbd |
 |day 9 - Functions part 2| tbd | tbd |
 
 
