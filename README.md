@@ -23,7 +23,10 @@ The table below contains links to the materials. The lecture will open the noteb
 |day 7 - Control flow part 3| [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_2%2Fday_7_for_if.ipynb) | [here](https://www.youtube.com/watch?v=PODN5qUgq4U) |
 |day 8 - Functions part 1| [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_2%2Fday_8_functions.ipynb) | [here](https://www.youtube.com/watch?v=oCF-8XKKmdY) |
 |day 9 - Functions part 2| [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_2%2Fday_9_functions.ipynb) | tbd |
-|day 10 - Packages| tbd | tbd |
+|day 10 - Packages| [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_3%2Fday_10_packages.ipynb) | tbd |
+|day 11 - Web Scraping, Basics| tbd | tbd |
+|day 12 - Web Scraping, Wikipedia| tbd | tbd |
+|day 13 - Web Scraping, Multi-page Queries| tbd | tbd |
 
 
 ## Contact
