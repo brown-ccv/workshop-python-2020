@@ -26,7 +26,7 @@ The table below contains links to the materials. The lecture will open the noteb
 |day 10 - Packages| [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_3%2Fday_10_packages.ipynb) | [here](https://www.youtube.com/watch?v=Qn1f2qshP5Q&list=PLTiEffrOcz_4QA2Mtu3domnGcUE91triP&index=11&t=0s) |
 |day 11 - Web Scraping, Basics| [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_3%2Fday11_weather.ipynb) | tbd |
 |day 12 - Web Scraping, Wikipedia| [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_3%2Fday12_oscars.ipynb) | tbd |
-|day 13 - Web Scraping, Multi-page Queries| tbd | tbd |
+|day 13 - Web Scraping, Multi-page Queries| [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_3%2Fday13_imdb.ipynb) | tbd |
 
 
 ## Contact
