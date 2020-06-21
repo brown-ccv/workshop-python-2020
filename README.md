@@ -27,6 +27,10 @@ The table below contains links to the materials. The lecture will open the noteb
 |day 11 - Web Scraping, Basics| [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_3%2Fday11_weather.ipynb) | [here](https://www.youtube.com/watch?v=2x7-TVy3itg&list=PLTiEffrOcz_4QA2Mtu3domnGcUE91triP&index=12&t=0s) |
 |day 12 - Web Scraping, Wikipedia| [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_3%2Fday12_oscars.ipynb) | [here](https://www.youtube.com/watch?v=qTN3o05e-3Y&list=PLTiEffrOcz_4QA2Mtu3domnGcUE91triP&index=13&t=0s) |
 |day 13 - Web Scraping, Multi-page Queries| [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_3%2Fday13_imdb.ipynb) | tbd |
+|day 14 - Pandas, part 1|[here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_4%2Fday_14_pandas.ipynb)|tbd|
+|day 15 - Pandas, part 2|tbd|tbd|
+|day 16 - Visualization, part 1|tbd|tbd|
+|day 17 - Visualization, part 1|tbd|tbd|
 
 
 ## Contact
