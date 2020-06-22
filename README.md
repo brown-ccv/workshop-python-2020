@@ -37,4 +37,4 @@ The table below contains links to the materials. The lecture will open the noteb
 The instructors are Ashley Lee (<ashley_lee@brown.edu>) and Andras Zsom (<andras_zsom@brown.edu>).
 
 ## Acknowledgements
-We thank the Data Science Initiative at Brown University for sponsoring the workshop. We are grateful to Isabel Restrepo and Fernando Gelin for assisting with the JupyterHub; Matt Slivinski, Camilo Diaz, and Paul Stey for helping out during the afternoon sessions.
+We thank the Data Science Initiative at Brown University for sponsoring the workshop. We are grateful to Isabel Restrepo and Fernando Gelin for assisting with the JupyterHub; Matt Slivinski and Camilo Diaz for helping out during the lectures and afternoon sessions.
