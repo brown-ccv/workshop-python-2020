@@ -1,0 +1,14 @@
+repo: python-workshop-2020
+site_name: Introduction to Programming, Web Scraping, and Data Cleaning in Python
+authors:      
+  - name: Andras Zsom
+    github_user: azsom
+  - name: Ashley Lee
+    github_user: alee35
+site_description: "The goal of this workshop is to increase data fluency of the Brown community. In the first two weeks of the workshop, we learn Python basics. In the third week, we use web scraping to collect data from the web. Web scraping allows us to automate data collection from websites of varying underlying formats. In the fourth week, attendees learn to clean and process the scraped data using the pandas library."
+docs_url:        
+doi:  # if the project has a related publication.
+type: workshop    # required. choose one of [software, tutorial, workshop, documentation]
+registry: 
+- name
+- url:
