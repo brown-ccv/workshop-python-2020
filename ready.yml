@@ -9,6 +9,3 @@ site_description: "The goal of this workshop is to increase data fluency of the 
 docs_url:        
 doi:  # if the project has a related publication.
 type: workshop    # required. choose one of [software, tutorial, workshop, documentation]
-registry: 
-- name:
-- url:
