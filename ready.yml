@@ -10,5 +10,5 @@ docs_url:
 doi:  # if the project has a related publication.
 type: workshop    # required. choose one of [software, tutorial, workshop, documentation]
 registry: 
-- name
+- name:
 - url:
