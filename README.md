@@ -30,7 +30,7 @@ The table below contains links to the materials. The lecture will open the noteb
 |day 14 - Pandas, part 1|[here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_4%2Fday_14_pandas.ipynb)|[here](https://www.youtube.com/watch?v=xiQINxCvBCU&list=PLTiEffrOcz_4QA2Mtu3domnGcUE91triP&index=14)|
 |day 15 - Pandas, part 2|[here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_4%2Fday_15_pandas.ipynb)|[here](https://www.youtube.com/watch?v=vdMkPqGe_aA)|
 |day 16 - Visualization, part 1|[here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_4%2Fday_16_visualization.ipynb)|tbd|
-|day 17 - Visualization, part 1|tbd|tbd|
+|day 17 - Visualization, part 2|tbd|tbd|
 
 
 ## Contact
