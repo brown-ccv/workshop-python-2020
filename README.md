@@ -15,7 +15,7 @@ The table below contains links to the materials. The lecture will open the noteb
 |       	| lecture 	| video 	|
 |-------	|:-------:	|:-----:	|
 | day 1 - Variables part 1 	|   [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_1%2Fday_1_lecture.ipynb)  	|  [here](https://www.youtube.com/watch?v=0keL313GbCY)  	|
-| day 2 - Variables part 2	|   [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_1%2Fday_2_strings.ipynb)   	|  [here](https://www.youtube.com/watch?v=PzJhs6RX7ag)  	|
+| day 2 - Variables part 2	|   [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_1%2Fday_2_strings.ipynb)   	|  [here](https://www.youtube.com/watch?v=YjAB3wZ5_FY)  	|
 |day 3 - Container types part 1| [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_1%2Fday_3_lists.ipynb) | [here](https://www.youtube.com/watch?v=b3HaD1D3WDg) |
 |day 4 - Container types part 2| [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_1%2Fday_4_dictionaries.ipynb) | [here](https://www.youtube.com/watch?v=atz2GLL7OtU) |
 |day 5 - Control flow part 1| [here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_1%2Fday_5_if_statements.ipynb) | [here](https://www.youtube.com/watch?v=GLemrD7tuTI) |
@@ -30,7 +30,7 @@ The table below contains links to the materials. The lecture will open the noteb
 |day 14 - Pandas, part 1|[here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_4%2Fday_14_pandas.ipynb)|[here](https://www.youtube.com/watch?v=xiQINxCvBCU&list=PLTiEffrOcz_4QA2Mtu3domnGcUE91triP&index=14)|
 |day 15 - Pandas, part 2|[here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_4%2Fday_15_pandas.ipynb)|[here](https://www.youtube.com/watch?v=vdMkPqGe_aA)|
 |day 16 - Visualization, part 1|[here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_4%2Fday_16_visualization.ipynb)|[here](https://www.youtube.com/watch?v=0WHIqGT2DNE)|
-|day 17 - Visualization, part 2|[here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_4%2Fday_17_visualization.ipynb)|tbd|
+|day 17 - Visualization, part 2|[here](https://ccv.jupyter.brown.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbrown-ccv%2Fpython-workshop-2020&urlpath=lab%2Ftree%2Fpython-workshop-2020%2Fweek_4%2Fday_17_visualization.ipynb)|[here](https://www.youtube.com/watch?v=n-84n4EY8UE)|
 
 
 ## Contact
